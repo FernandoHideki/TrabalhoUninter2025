@@ -1,0 +1,67 @@
+    body{
+        background-color: rgba(158, 137, 80, 0.651);
+    }
+    h1{
+        color: rgb(195, 236, 133);
+        text-align: center;
+    }
+    p{
+        font-size: 2rem;
+        text-align: justify;
+    }
+    ul{
+        font-size: 2rem;
+        padding-right: 2rem; 
+    }
+    li{
+        padding-bottom: 1rem;
+        margin-bottom: 1rem; 
+    }
+    img{
+        border-radius: 2.5rem;
+        width: 25rem;
+    }
+    table{
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th{
+        border: 2px;
+        text-align: left;
+        padding: 10px;
+        font-size: 2rem;
+    }
+    td{
+        border: 2px;
+        text-align: left;
+        padding: 10px;
+    }
+    a{
+       color: cadetblue;
+       text-decoration: none;
+       font-size: 2rem;
+    }
+    a:hover{
+        color: blueviolet;
+    }
+    h2{
+        font-size: 2rem;
+    }
+    button{
+        background-color: antiquewhite;
+        text-align: center;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        font-size: 1rem;
+        margin: 1rem;
+        border-radius: 2rem;
+        cursor: grab
+
+    }
+    #mensagem{
+        text-align: center;
+        color:firebrick;
+        text-decoration:solid;
+        d
+    }
+  
